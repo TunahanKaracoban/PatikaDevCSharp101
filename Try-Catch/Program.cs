@@ -43,7 +43,7 @@ namespace Try_Catch
                 Console.WriteLine("Çok küçük yada çok büyük bir değer girdiniz");
                 Console.WriteLine(ex);
             }
-
+             
         }
     }
 }
