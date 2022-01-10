@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.exe
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.deps.json
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.runtimeconfig.json
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.dll
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ref\ForLoop-BreakContinue.dll
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\bin\Debug\net5.0\ForLoop-BreakContinue.pdb
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.dll
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ref\ForLoop-BreakContinue.dll
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.pdb
+C:\Users\krctu\CSharp101\ForLoop-BreakContinue\obj\Debug\net5.0\ForLoop-BreakContinue.genruntimeconfig.cache
