@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.exe
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.deps.json
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.runtimeconfig.json
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.dll
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\ref\Array-ClassMethods.dll
+C:\Users\krctu\CSharp101\Array-ClassMethods\bin\Debug\net5.0\Array-ClassMethods.pdb
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.dll
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\ref\Array-ClassMethods.dll
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.pdb
+C:\Users\krctu\CSharp101\Array-ClassMethods\obj\Debug\net5.0\Array-ClassMethods.genruntimeconfig.cache
