@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.exe
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.deps.json
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.runtimeconfig.json
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.dll
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\ref\Datetime-Maths-Methods.dll
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\bin\Debug\net5.0\Datetime-Maths-Methods.pdb
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.dll
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\ref\Datetime-Maths-Methods.dll
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.pdb
+C:\Users\krctu\CSharp101\Datetime-Maths-Methods\obj\Debug\net5.0\Datetime-Maths-Methods.genruntimeconfig.cache
