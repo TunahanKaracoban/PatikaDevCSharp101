@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.exe
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.deps.json
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.dll
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\ref\arrayList.dll
+C:\Users\krctu\CSharp101\arrayList\bin\Debug\net5.0\arrayList.pdb
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.dll
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\ref\arrayList.dll
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.pdb
+C:\Users\krctu\CSharp101\arrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache
