@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.exe
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.deps.json
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.runtimeconfig.json
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.dll
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\ref\Class-Definition.dll
+C:\Users\krctu\CSharp101\Class-Definition\bin\Debug\net5.0\Class-Definition.pdb
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.dll
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\ref\Class-Definition.dll
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.pdb
+C:\Users\krctu\CSharp101\Class-Definition\obj\Debug\net5.0\Class-Definition.genruntimeconfig.cache
