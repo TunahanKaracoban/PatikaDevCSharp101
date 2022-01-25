@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.exe
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.deps.json
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.runtimeconfig.json
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.dll
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\ref\Static- Class-Members.dll
+C:\Users\krctu\CSharp101\Static- Class-Members\bin\Debug\net5.0\Static- Class-Members.pdb
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.dll
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\ref\Static- Class-Members.dll
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.pdb
+C:\Users\krctu\CSharp101\Static- Class-Members\obj\Debug\net5.0\Static- Class-Members.genruntimeconfig.cache
