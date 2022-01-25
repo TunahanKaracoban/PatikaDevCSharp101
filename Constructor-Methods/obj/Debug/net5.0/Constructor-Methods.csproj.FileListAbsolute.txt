@@ -1,0 +1,16 @@
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.exe
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.deps.json
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.runtimeconfig.json
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.runtimeconfig.dev.json
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.dll
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\ref\Constructor-Methods.dll
+C:\Users\krctu\CSharp101\Constructor-Methods\bin\Debug\net5.0\Constructor-Methods.pdb
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.csproj.AssemblyReference.cache
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.AssemblyInfoInputs.cache
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.AssemblyInfo.cs
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.csproj.CoreCompileInputs.cache
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.dll
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\ref\Constructor-Methods.dll
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.pdb
+C:\Users\krctu\CSharp101\Constructor-Methods\obj\Debug\net5.0\Constructor-Methods.genruntimeconfig.cache
