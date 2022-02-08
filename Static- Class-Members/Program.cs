@@ -41,6 +41,8 @@ namespace Static__Class_Members
     }
     static class Islemler
     {
+       
+        
         public static long Topla(int sayi1, int sayi2)
         {
             return sayi1 + sayi2;
